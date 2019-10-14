@@ -1,2 +1,3 @@
 这是来自于一篇文章(https://blogs.oracle.com/datascience/fraud-detection-using-autoencoders-in-keras-with-a-tensorflow-backend)的源代码， 该文章没有发布源代码。
 Article title: Fraud Detection Using Autoencoders in Keras with a TensorFlow Backend
+Source code 成功地在 Google Colab 运行， 唯一需要的数据文件 CSV 可从上述文章链接或者源代码中 GOOGLE DRIVE 获得。
